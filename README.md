@@ -1,1 +1,2 @@
 # plant-leaf-identification-and-disease-detection-based-on-deep-learning-with-ResNet
+In this project we used ResNet to identify Plant Leaf firstly among the 4 types of plants leaves. After idetification of plant leaf we detected if it is healthy or diseased. In the second phase if the leaf is diseased we used ResNet to identify the disease of the leaf. We trained 1 model in the first phase and 4 model in the second phase. 
